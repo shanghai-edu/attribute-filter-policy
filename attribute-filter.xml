@@ -34,6 +34,7 @@
 
      <AttributeFilterPolicy id="seaciAttrFilterToSPPolicy">
          <PolicyRequirementRule xsi:type="OR">
+             <Rule xsi:type="Requester" value="https://sptest.ecnu.edu.cn/shibboleth" />
              <Rule xsi:type="Requester" value="Eduroam" />
              <Rule xsi:type="Requester" value="http://mooc.sjtu.edu.cn/SummerElect/Login" />
              <Rule xsi:type="Requester" value="https://kxxfx.shec.edu.cn/shibboleth" />
