@@ -5,6 +5,11 @@
 如果您希望与认证中心推荐的策略保持同步的话，可以参考一下使用说明来自动同步策略。
 
 ## 使用说明
+### 备份现有的配置
+```
+cp /opt/shibboleth-idp/conf/attribute-filter.xml /opt/shibboleth-idp/conf/attribute-filter.xml.bak
+```
+
 ### 拉取仓库
 ```
 [root@idp /]# cd /home/
