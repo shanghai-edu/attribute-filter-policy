@@ -59,5 +59,6 @@
             <AttributeRule attributeID="cn" permitAny="true" />
             <AttributeRule attributeID="domainName" permitAny="true" />
             <AttributeRule attributeID="typeOf" permitAny="true" />
+            <AttributeRule attributeID="shEduId" permitAny="true" />
      </AttributeFilterPolicy>
 </AttributeFilterPolicyGroup>
