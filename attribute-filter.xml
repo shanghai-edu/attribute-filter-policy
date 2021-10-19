@@ -61,5 +61,25 @@
             <AttributeRule attributeID="domainName" permitAny="true" />
             <AttributeRule attributeID="typeOf" permitAny="true" />
             <AttributeRule attributeID="shEduId" permitAny="true" />
+         
+            <AttributeRule attributeID="shEduPersonGender" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonGrade" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonClass" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonSchool" permitAny="true" />
+         
+            <AttributeRule attributeID="shEduPersonUserId" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonDateOfBirth" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonHomeOrganization" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonHomeOrganizationType" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonDepartment" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonMajor" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonMatriculationDate" permitAny="true" />
+            <AttributeRule attributeID="shEduPersionStageOfStudy" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonSchool" permitAny="true" />
+            <AttributeRule attributeID="shEduPersonCourse" permitAny="true" />
+            <AttributeRule attributeID="eduPersonScopedAffiliation" permitAny="true" />
+            <AttributeRule attributeID="eduPersonTargetedID" permitAny="true" />
+            <AttributeRule attributeID="eduPersonEntitlement" permitAny="true" />
+            <AttributeRule attributeID="eduPersonAffiliation" permitAny="true" />
      </AttributeFilterPolicy>
 </AttributeFilterPolicyGroup>
